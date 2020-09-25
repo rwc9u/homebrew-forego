@@ -1,8 +1,8 @@
 class Forego < Formula
   desc "Foreman in Go for Procfile-based application management. Fork by rwc9u"
   homepage "https://github.com/rwc9u/forego"
-  url "https://github.com/rwc9u/forego/archive/0.20.0-3-gc52882b.tar.gz"
-  sha256 "355b2cba661f499058e7e4020713083a34ef43d54eaf9c9408dbb393e5eca3aa"
+  url "https://github.com/rwc9u/forego/releases/tag/0.20.1-proxy-support"
+  sha256 "9e8464250c71b129a54f1336575825bc016ee98446b8efb0980a8afed97bb9d1"
   license "Apache-2.0"
   head "https://github.com/rwc9u/forego.git", branch: "develop"
 
